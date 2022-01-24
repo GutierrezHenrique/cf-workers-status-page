@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+    
+   - id: sp01-solucoes-me
+    name: Sol - Brazil - Datacenter 01
+    url: 'http://sp01.solucoes.me/'
+    method: GET
+    expectStatus: 200
